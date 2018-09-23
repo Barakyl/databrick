@@ -30,7 +30,7 @@ dbutils.fs.ls("/mnt/platformusage_events/20180801/")
 
 # COMMAND ----------
 
-textFile.first()
+textFile.count()
 
 # COMMAND ----------
 
